@@ -1,0 +1,1083 @@
+{
+	"buildingsInfo" :
+	[
+		{
+			"buildingType" : "supplyDepot",
+			"width": 4,
+			"height": 4,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "reactor",
+			"width": 4,
+			"height": 2,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "strategyHall",
+			"width": 8,
+			"height": 4,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "commandCenter",
+			"width": 8,
+			"height": 8,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "miner",
+			"width": 8,
+			"height": 4,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "satellite",
+			"width": 4,
+			"height": 2,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "apartment",
+			"width": 2,
+			"height": 2,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "dropZone",
+			"width": 4,
+			"height": 2,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "researchCenter",
+			"width": 4,
+			"height": 4,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "bank",
+			"width": 4,
+			"height": 4,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		},
+		{
+			"buildingType" : "depthDetector",
+			"width": 4,
+			"height": 2,
+			"info" : 
+			{
+				"1":
+				{
+					"cost"  : 1000,
+					"constructDuration" : 10,
+					"experience" : 24,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 2,
+					"deconstructCostPercentage" : 0.5
+				},
+				"2":
+				{
+					"cost"  : 5000,
+					"constructDuration" : 1200,
+					"experience" : 34,
+					"power" : -5,
+					"prestige" : -5,
+					"deconstructDuration" : 4,
+					"deconstructCostPercentage" : 0.5
+				},
+				"3":
+				{
+					"cost"  : 10000,
+					"constructDuration" : 2400,
+					"experience" : 48,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 8,
+					"deconstructCostPercentage" : 0.5
+				},
+				"4":
+				{
+					"cost"  : 30000,
+					"constructDuration" : 7200,
+					"experience" : 84,
+					"power" : -10,
+					"prestige" : -10,
+					"deconstructDuration" : 16,
+					"deconstructCostPercentage" : 0.5
+				},
+				"5":
+				{
+					"cost"  : 60000,
+					"constructDuration" : 18000,
+					"experience" : 134,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 32,
+					"deconstructCostPercentage" : 0.5
+				},
+				"6":
+				{
+					"cost"  : 100000,
+					"constructDuration" : 28800,
+					"experience" : 169,
+					"power" : -20,
+					"prestige" : -20,
+					"deconstructDuration" : 64,
+					"deconstructCostPercentage" : 0.5
+				},
+				"7":
+				{
+					"cost"  : 200000,
+					"constructDuration" : 36000,
+					"experience" : 189,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 128,
+					"deconstructCostPercentage" : 0.5
+				},
+				"8":
+				{
+					"cost"  : 300000,
+					"constructDuration" : 43200,
+					"experience" : 207,
+					"power" : -40,
+					"prestige" : -40,
+					"deconstructDuration" : 256,
+					"deconstructCostPercentage" : 0.5
+				},
+				"9":
+				{
+					"cost"  : 400000,
+					"constructDuration" : 50400,
+					"experience" : 224,
+					"power" : -80,
+					"prestige" : -80,
+					"deconstructDuration" : 512,
+					"deconstructCostPercentage" : 0.5
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,392 @@
+{
+	"email": "eshahriari94@gmail.com",
+	"lands": [
+		{
+			"id": 1,
+			"categoryName": "Silent Moor",
+			"categoryKey": "silent_moor",
+			"landscape": "Earth",
+			"name": "REDKINDLES/Silent Moor(Field)",
+			"art_portrait": null,
+			"art_action": null,
+			"description": null,
+			"prestige": 0,
+			"power": 0,
+			"gameBuildings": [],
+			"buildings": []
+		},
+		{
+			"id": 2,
+			"categoryName": "Beach",
+			"categoryKey": "beach",
+			"landscape": "Earth",
+			"name": "REDKINDLES/Silent Moor(Field)",
+			"art_portrait": null,
+			"art_action": null,
+			"description": null,
+			"prestige": 0,
+			"power": 0,
+			"gameBuildings": [],
+			"buildings": []
+		},
+		{
+			"id": 3,
+			"categoryName": "Mountain",
+			"categoryKey": "mountain",
+			"landscape": "Earth",
+			"name": "REDKINDLES/Silent Moor(Field)",
+			"art_portrait": null,
+			"art_action": null,
+			"description": null,
+			"prestige": 0,
+			"power": 0,
+			"gameBuildings": [],
+			"buildings": []
+		},
+		{
+			"id": 4,
+			"categoryName": "Desert",
+			"categoryKey": "desert",
+			"landscape": "Earth",
+			"name": "REDKINDLES/Silent Moor(Field)",
+			"art_portrait": null,
+			"art_action": null,
+			"description": null,
+			"prestige": 0,
+			"power": 0,
+			"gameBuildings": [],
+			"buildings": []
+		}
+	],
+	"availableBuildings": [
+		{
+			"id": 1,
+			"buildingInfo": {
+				"name": "Supply Depot",
+				"type": {
+					"title": "Supply Depot",
+					"type": "supplyDepot"
+				},
+				"description": "Apartment",
+				"level": 1
+			}
+		},
+		{
+			"id": 2,
+			"buildingInfo": {
+				"name": "Supply Depot",
+				"type": {
+					"title": "Supply Depot",
+					"type": "supplyDepot"
+				},
+				"description": "Apartment",
+				"level": 2
+			}
+		},
+		{
+			"id": 3,
+			"buildingInfo": {
+				"name": "Supply Depot",
+				"type": {
+					"title": "Supply Depot",
+					"type": "supplyDepot"
+				},
+				"description": "Apartment",
+				"level": 3
+			}
+		},
+		{
+			"id": 4,
+			"buildingInfo": {
+				"name": "Supply Depot",
+				"type": {
+					"title": "Supply Depot",
+					"type": "supplyDepot"
+				},
+				"description": "Apartment",
+				"level": 4
+			}
+		},
+		{
+			"id": 5,
+			"buildingInfo": {
+				"name": "Supply Depot",
+				"type": {
+					"title": "Supply Depot",
+					"type": "supplyDepot"
+				},
+				"description": "Apartment",
+				"level": 5
+			}
+		},
+		{
+			"id": 6,
+			"buildingInfo": {
+				"name": "Reactor",
+				"type": {
+					"title": "Reactor",
+					"type": "reactor"
+				},
+				"description": "Apartment",
+				"level": 2
+			}
+		},
+		{
+			"id": 7,
+			"buildingInfo": {
+				"name": "Reactor",
+				"type": {
+					"title": "Reactor",
+					"type": "reactor"
+				},
+				"description": "Apartment",
+				"level": 3
+			}
+		},
+		{
+			"id": 8,
+			"buildingInfo": {
+				"name": "Strategy Hall",
+				"type": {
+					"title": "Strategy Hall",
+					"type": "strategyHall"
+				},
+				"description": "Apartment",
+				"level": 5
+			}
+		},
+		{
+			"id": 9,
+			"buildingInfo": {
+				"name": "Miner",
+				"type": {
+					"title": "Miner",
+					"type": "miner"
+				},
+				"description": "Apartment",
+				"level": 1
+			}
+		},
+		{
+			"id": 10,
+			"buildingInfo": {
+				"name": "Bank",
+				"type": {
+					"title": "Bank",
+					"type": "bank"
+				},
+				"description": "Apartment",
+				"level": 1
+			}
+		},
+		{
+			"id": 11,
+			"buildingInfo": {
+				"name": "Bank",
+				"type": {
+					"title": "Bank",
+					"type": "bank"
+				},
+				"description": "Apartment",
+				"level": 2
+			}
+		},
+		{
+			"id": 12,
+			"buildingInfo": {
+				"name": "Bank",
+				"type": {
+					"title": "Bank",
+					"type": "bank"
+				},
+				"description": "Apartment",
+				"level": 3
+			}
+		},
+		{
+			"id": 13,
+			"buildingInfo": {
+				"name": "Bank",
+				"type": {
+					"title": "Bank",
+					"type": "bank"
+				},
+				"description": "Apartment",
+				"level": 4
+			}
+		},
+		{
+			"id": 14,
+			"buildingInfo": {
+				"name": "Bank",
+				"type": {
+					"title": "Bank",
+					"type": "bank"
+				},
+				"description": "Apartment",
+				"level": 5
+			}
+		},
+		{
+			"id": 15,
+			"buildingInfo": {
+				"name": "Command Center",
+				"type": {
+					"title": "Command Center",
+					"type": "commandCenter"
+				},
+				"description": "Apartment",
+				"level": 1
+			}
+		},
+		{
+			"id": 16,
+			"buildingInfo": {
+				"name": "Command Center",
+				"type": {
+					"title": "Command Center",
+					"type": "commandCenter"
+				},
+				"description": "Apartment",
+				"level": 3
+			}
+		},
+		{
+			"id": 17,
+			"buildingInfo": {
+				"name": "Command Center",
+				"type": {
+					"title": "Command Center",
+					"type": "commandCenter"
+				},
+				"description": "Apartment",
+				"level": 4
+			}
+		},
+		{
+			"id": 18,
+			"buildingInfo": {
+				"name": "Command Center",
+				"type": {
+					"title": "Command Center",
+					"type": "commandCenter"
+				},
+				"description": "Apartment",
+				"level": 5
+			}
+		},
+		{
+			"id": 19,
+			"buildingInfo": {
+				"name": "Miner",
+				"type": {
+					"title": "Miner",
+					"type": "miner"
+				},
+				"description": "Apartment",
+				"level": 4
+			}
+		},
+		{
+			"id": 20,
+			"buildingInfo": {
+				"name": "Reactor",
+				"type": {
+					"title": "Reactor",
+					"type": "reactor"
+				},
+				"description": "Apartment",
+				"level": 1
+			}
+		},
+		{
+			"id": 21,
+			"buildingInfo": {
+				"name": "Reactor",
+				"type": {
+					"title": "Reactor",
+					"type": "reactor"
+				},
+				"description": "Apartment",
+				"level": 4
+			}
+		},
+		{
+			"id": 22,
+			"buildingInfo": {
+				"name": "Strategy Hall",
+				"type": {
+					"title": "Strategy Hall",
+					"type": "strategyHall"
+				},
+				"description": "Apartment",
+				"level": 1
+			}
+		},
+		{
+			"id": 23,
+			"buildingInfo": {
+				"name": "Strategy Hall",
+				"type": {
+					"title": "Strategy Hall",
+					"type": "strategyHall"
+				},
+				"description": "Apartment",
+				"level": 3
+			}
+		},
+		{
+			"id": 24,
+			"buildingInfo": {
+				"name": "Strategy Hall",
+				"type": {
+					"title": "Strategy Hall",
+					"type": "strategyHall"
+				},
+				"description": "Apartment",
+				"level": 2
+			}
+		}
+	],
+	"wallets": [
+		{
+			"symbol": "USDT",
+			"amount": 8270
+		},
+		{
+			"symbol": "ECG",
+			"amount": 0
+		},
+		{
+			"symbol": "lumen",
+			"amount": 999999
+		},
+		{
+			"symbol": "platinum",
+			"amount": 888888
+		},
+		{
+			"symbol": "diamond",
+			"amount": 30
+		}
+	],
+	"gameVersion": {
+		"update": {
+			"version_code": 5,
+			"version": "1.3.0",
+			"type": "update",
+			"description": "Fixed some bugs",
+			"link": null,
+			"created_at": "2022-07-03T08:39:30.000000Z"
+		},
+		"force": {
+			"version_code": 2,
+			"version": "1.0.1",
+			"type": "force",
+			"description": "New features",
+			"link": null,
+			"created_at": "2022-07-03T08:39:30.000000Z"
+		}
+	},
+	"messages": []
+}

@@ -1,0 +1,23 @@
+﻿ توضیحات نسخه در  توی Version.txt   هست
+و نحوه استفاده هم توی ApiServiceSamples.cs  هست
+و یک scene  برای نمونه در Assets\Script\Services\API Service\Sample قرار دارد
+
+-- version 2
+-login
+-profile info
+
+
+-- version 3
+-Register
+-GameUserProfile
+
+--version4
+-Game Landing
+
+--version5
+-update login
+-update Register
+-construct
+-Destruct
+-startWorking
+-boostConstruct
